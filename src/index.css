@@ -1,0 +1,8 @@
+#heading_name{
+    padding: 20px;
+    box-shadow: 1px 1px 5px #414141;
+}
+#heading_name h1{
+    color: #b91a05;
+    font-size: 50px;
+}
